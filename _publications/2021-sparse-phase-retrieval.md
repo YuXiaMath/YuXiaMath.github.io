@@ -1,5 +1,5 @@
 ---
-title: "Sparse phase retrieval via PhaseLiftOff"
+title: "Sparse Phase Retrieval via PhaseLiftOff"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-sparse-phase-retrieval
