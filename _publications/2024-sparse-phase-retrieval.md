@@ -1,5 +1,5 @@
 ---
-title: "Sparse phase retrieval with partial convolutional measurements"
+title: "Sparse Phase Retrieval with Partial Convolutional Measurements"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-sparse-phase-retrieval
