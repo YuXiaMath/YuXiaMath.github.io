@@ -1,12 +1,12 @@
 ---
-title: "Adaptive iterative hard thresholding for low-rank matrix recovery and rank-one measurements"
+title: "Adaptive Iterative Hard Thresholding for Low-rank Matrix Recovery and Rank-one Measurements"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-adaptive-iterative
 excerpt: 'This paper proposes an adaptive iterative hard thresholding algorithm for low-rank matrix recovery.'
 date: 2023-03-08
 venue: 'Journal of Complexity'
-paperurl: 'https://doi.org/10.1016/j.jco.2022.101725'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0885064X22000905'
 citation: 'Yu Xia, Likai Zhou. (2023).<i>Journal of Complexity</i>, 76, Paper No. 101725, 19 pp.'
 ---
 
