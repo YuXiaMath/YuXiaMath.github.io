@@ -7,7 +7,7 @@ excerpt: 'This paper introduces a novel algorithm called PhaseLiftOff for sparse
 date: 2021-03-18
 venue: 'IEEE Transactions on Signal Processing'
 paperurl: 'https://ieeexplore.ieee.org/document/9381647'
-citation: 'Yu Xia, Zhiqiang Xu. (2021). <i>IEEE Transactions on Signal Processing</i>, 69, 2129-2143.'
+citation: 'Yu Xia, Zhiqiang Xu. (2021). <i>IEEE Transactions on Signal Processing</i>, 69: 2129-2143.'
 ---
 
 This paper presents PhaseLiftOff, a novel algorithm for solving sparse phase retrieval problems. The method has demonstrated superior performance and has been cited 5 times, showing its impact in the field of signal processing.
