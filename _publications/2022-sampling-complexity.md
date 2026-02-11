@@ -7,7 +7,7 @@ excerpt: 'This paper studies the sampling complexity of phase retrieval using ma
 date: 2022-08-30
 venue: 'Inverse Problems'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6420/ac88f1'
-citation: 'Huiping Li, Song Li, Yu Xia. (2022).<i>Inverse Problems</i>, 38(10), Paper No. 105004, 28 pp.'
+citation: 'Huiping Li, Song Li, Yu Xia. (2022). <i>Inverse Problems</i>, 38, 10: 105004.'
 ---
 
 This paper investigates the sampling complexity of phase retrieval problems using masked Fourier measurements and the Wirtinger flow algorithm. The work provides theoretical analysis and practical insights for optimal sampling strategies.
