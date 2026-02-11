@@ -7,5 +7,5 @@ excerpt: 'This paper considerEnergy-based model for accurate estimation of Shapl
 date: 2025-10-28
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: 'https://ieeexplore.ieee.org/document/11219353'
-citation: 'Cheng Lu, Jiusun Zeng, Yu Xia, Jinhui Cai, Shihua Luo. (2026). <i>IEEE Transactions on Pattern Analysis and Machine Intelligence'</i>, 48, 3: 2496-2513.'
+citation: 'Cheng Lu, Jiusun Zeng, Yu Xia, Jinhui Cai, Shihua Luo. (2026). <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 48, 3: 2496-2513.'
 ---
