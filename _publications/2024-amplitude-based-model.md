@@ -7,7 +7,7 @@ excerpt: 'This paper analyzes the performance of amplitude-based models in compl
 date: 2024-01-01
 venue: 'Information and Inference'
 paperurl: 'https://arxiv.org/pdf/2204.05492'
-citation: 'Yu Xia, Zhiqiang Xu. (2024).<i>Information and Inference</i>, 13(1), Paper No. iaad053, 35 pp.'
+citation: 'Yu Xia, Zhiqiang Xu. (2024). <i>Information and Inference</i>, 13, 1: iaad053.'
 ---
 
 This paper provides a comprehensive analysis of the amplitude-based model's performance in complex phase retrieval problems, offering theoretical insights and practical implications for signal processing applications.
