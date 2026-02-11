@@ -1,5 +1,5 @@
 ---
-title: "Stability in Phase Retrieval: Characterizing Condition Numbers and The Optimal Vector Set."
+title: "Stability in Phase Retrieval: Characterizing Condition Numbers and The Optimal Vector Set"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-stability-phase-retrieval
